@@ -1,0 +1,421 @@
+catalogue_sku,item_label,category,listed_price,customer_rating,review_band,stock_status,snapshot_month
+CAT-0037,Home Collection Item 001,Home Audio,23.98,2.8,Established,Low stock,2025-03
+CAT-0074,Outdoor Collection Item 002,Outdoor Gear,20.36,3.7,Established,Low stock,2025-10
+CAT-0111,Learning Collection Item 003,Learning Kits,15.21,3.0,Emerging,Available,2025-12
+CAT-0148,Kitchen Collection Item 004,Kitchen Tools,57.97,2.0,Established,Available,2025-07
+CAT-0185,Personal Collection Item 005,Personal Care,16.07,3.5,Emerging,Available,2025-12
+CAT-0222,Desk Collection Item 006,Desk Essentials,17.8,3.4,Established,Available,2025-01
+CAT-0259,Home Collection Item 007,Home Audio,22.71,2.9,New,Available,2025-09
+CAT-0296,Outdoor Collection Item 008,Outdoor Gear,49.07,2.7,Emerging,Available,2025-07
+CAT-0333,Kitchen Collection Item 009,Kitchen Tools,15.8,4.3,New,Available,2025-04
+CAT-0370,Personal Collection Item 010,Personal Care,24.17,4.4,Established,Available,2025-06
+CAT-0407,Desk Collection Item 011,Desk Essentials,47.97,3.9,Emerging,Available,2025-09
+CAT-0444,Home Collection Item 012,Home Audio,34.69,4.3,Established,Available,2025-01
+CAT-0481,Outdoor Collection Item 013,Outdoor Gear,18.33,3.6,Established,Available,2025-03
+CAT-0518,Learning Collection Item 014,Learning Kits,18.53,3.1,Established,Low stock,2025-04
+CAT-0555,Kitchen Collection Item 015,Kitchen Tools,35.84,3.5,Established,Available,2025-09
+CAT-0592,Personal Collection Item 016,Personal Care,26.47,3.1,Established,Low stock,2025-02
+CAT-0629,Desk Collection Item 017,Desk Essentials,14.8,3.5,Established,Available,2025-05
+CAT-0666,Outdoor Collection Item 018,Outdoor Gear,21.9,2.7,New,Available,2025-09
+CAT-0703,Learning Collection Item 019,Learning Kits,22.16,3.0,New,Available,2025-09
+CAT-0740,Kitchen Collection Item 020,Kitchen Tools,35.79,3.8,Established,Available,2025-08
+CAT-0777,Personal Collection Item 021,Personal Care,32.82,3.0,Established,Available,2025-01
+CAT-0814,Desk Collection Item 022,Desk Essentials,24.47,3.8,Established,Available,2025-03
+CAT-0851,Home Collection Item 023,Home Audio,23.53,3.3,Established,Available,2025-05
+CAT-0888,Outdoor Collection Item 024,Outdoor Gear,63.49,2.7,Emerging,Available,2025-05
+CAT-0925,Learning Collection Item 025,Learning Kits,50.03,3.6,Established,Available,2025-10
+CAT-0962,Kitchen Collection Item 026,Kitchen Tools,18.45,3.2,Emerging,Low stock,2025-11
+CAT-0002,Desk Collection Item 027,Desk Essentials,43.47,4.4,Established,Available,2025-04
+CAT-0039,Home Collection Item 028,Home Audio,14.24,3.3,Emerging,Available,2025-10
+CAT-0076,Outdoor Collection Item 029,Outdoor Gear,63.8,3.9,New,Available,2025-07
+CAT-0113,Learning Collection Item 030,Learning Kits,27.12,4.2,Emerging,Available,2025-01
+CAT-0150,Kitchen Collection Item 031,Kitchen Tools,17.45,5.0,Established,Available,2025-05
+CAT-0187,Personal Collection Item 032,Personal Care,19.52,4.1,Emerging,Available,2025-11
+CAT-0224,Desk Collection Item 033,Desk Essentials,30.32,5.0,Established,Available,2025-02
+CAT-0261,Home Collection Item 034,Home Audio,23.47,3.8,New,Available,2025-06
+CAT-0298,Outdoor Collection Item 035,Outdoor Gear,124.3,3.5,Established,Available,2025-08
+CAT-0335,Kitchen Collection Item 036,Kitchen Tools,12.24,3.1,Emerging,Available,2025-02
+CAT-0372,Personal Collection Item 037,Personal Care,22.27,4.3,Established,Available,2025-03
+CAT-0409,Desk Collection Item 038,Desk Essentials,23.02,3.2,Established,Unavailable,2025-05
+CAT-0446,Home Collection Item 039,Home Audio,43.52,4.3,Established,Available,2025-04
+CAT-0483,Outdoor Collection Item 040,Outdoor Gear,17.91,4.3,Established,Available,2025-04
+CAT-0520,Learning Collection Item 041,Learning Kits,20.51,4.1,Emerging,Available,2025-09
+CAT-0557,Kitchen Collection Item 042,Kitchen Tools,14.04,3.9,Emerging,Available,2025-11
+CAT-0594,Personal Collection Item 043,Personal Care,25.76,4.3,Emerging,Available,2025-12
+CAT-0631,Desk Collection Item 044,Desk Essentials,129.38,4.0,Emerging,Unavailable,2025-08
+CAT-0668,Outdoor Collection Item 045,Outdoor Gear,37.5,3.4,Emerging,Available,2025-08
+CAT-0705,Learning Collection Item 046,Learning Kits,30.58,2.4,Established,Available,2025-05
+CAT-0742,Kitchen Collection Item 047,Kitchen Tools,56.54,4.5,Emerging,Low stock,2025-07
+CAT-0779,Personal Collection Item 048,Personal Care,24.72,2.7,Established,Available,2025-03
+CAT-0816,Desk Collection Item 049,Desk Essentials,39.34,3.9,Established,Available,2025-01
+CAT-0853,Home Collection Item 050,Home Audio,25.58,3.8,Emerging,Available,2025-04
+CAT-0890,Outdoor Collection Item 051,Outdoor Gear,25.36,3.7,Established,Available,2025-08
+CAT-0927,Learning Collection Item 052,Learning Kits,33.88,3.4,New,Available,2025-06
+CAT-0964,Kitchen Collection Item 053,Kitchen Tools,70.71,3.3,Established,Available,2025-08
+CAT-0004,Desk Collection Item 054,Desk Essentials,33.96,3.6,New,Available,2025-10
+CAT-0041,Home Collection Item 055,Home Audio,11.47,3.3,Emerging,Available,2025-05
+CAT-0078,Outdoor Collection Item 056,Outdoor Gear,32.81,4.1,Emerging,Available,2025-01
+CAT-0115,Learning Collection Item 057,Learning Kits,79.97,3.5,New,Available,2025-08
+CAT-0152,Kitchen Collection Item 058,Kitchen Tools,14.16,5.0,Emerging,Available,2025-01
+CAT-0189,Personal Collection Item 059,Personal Care,35.04,3.5,Emerging,Low stock,2025-12
+CAT-0226,Desk Collection Item 060,Desk Essentials,21.6,2.5,Established,Available,2025-07
+CAT-0263,Home Collection Item 061,Home Audio,70.81,3.8,Established,Available,2025-08
+CAT-0300,Outdoor Collection Item 062,Outdoor Gear,26.57,3.4,Established,Available,2025-07
+CAT-0337,Kitchen Collection Item 063,Kitchen Tools,9.86,2.9,Established,Available,2025-07
+CAT-0374,Personal Collection Item 064,Personal Care,32.03,4.6,Established,Available,2025-12
+CAT-0411,Desk Collection Item 065,Desk Essentials,27.59,3.9,Emerging,Available,2025-04
+CAT-0448,Home Collection Item 066,Home Audio,30.02,3.2,Established,Available,2025-10
+CAT-0485,Outdoor Collection Item 067,Outdoor Gear,51.39,4.2,Emerging,Available,2025-08
+CAT-0522,Learning Collection Item 068,Learning Kits,30.73,4.1,Emerging,Low stock,2025-01
+CAT-0559,Kitchen Collection Item 069,Kitchen Tools,33.9,4.3,Emerging,Available,2025-05
+CAT-0596,Personal Collection Item 070,Personal Care,27.7,2.6,New,Available,2025-09
+CAT-0633,Desk Collection Item 071,Desk Essentials,57.52,4.6,Established,Available,2025-03
+CAT-0670,Outdoor Collection Item 072,Outdoor Gear,52.68,3.5,New,Available,2025-04
+CAT-0707,Learning Collection Item 073,Learning Kits,15.42,3.8,New,Available,2025-06
+CAT-0744,Kitchen Collection Item 074,Kitchen Tools,39.11,3.8,Established,Available,2025-04
+CAT-0781,Personal Collection Item 075,Personal Care,48.47,5.0,Established,Available,2025-03
+CAT-0818,Desk Collection Item 076,Desk Essentials,96.53,3.7,Established,Low stock,2025-04
+CAT-0855,Home Collection Item 077,Home Audio,18.13,3.2,Emerging,Available,2025-02
+CAT-0892,Outdoor Collection Item 078,Outdoor Gear,48.57,2.8,Emerging,Low stock,2025-03
+CAT-0929,Learning Collection Item 079,Learning Kits,28.35,5.0,Emerging,Available,2025-02
+CAT-0966,Kitchen Collection Item 080,Kitchen Tools,12.43,4.5,Established,Available,2025-04
+CAT-0006,Desk Collection Item 081,Desk Essentials,36.54,4.4,Emerging,Available,2025-09
+CAT-0043,Home Collection Item 082,Home Audio,53.95,2.4,New,Unavailable,2025-02
+CAT-0080,Outdoor Collection Item 083,Outdoor Gear,31.13,3.5,Established,Low stock,2025-04
+CAT-0117,Learning Collection Item 084,Learning Kits,11.47,4.8,New,Available,2025-10
+CAT-0154,Kitchen Collection Item 085,Kitchen Tools,31.31,2.9,Established,Available,2025-07
+CAT-0191,Personal Collection Item 086,Personal Care,43.36,3.8,New,Available,2025-03
+CAT-0228,Desk Collection Item 087,Desk Essentials,11.02,3.5,Emerging,Available,2025-12
+CAT-0265,Home Collection Item 088,Home Audio,20.04,3.7,Emerging,Available,2025-08
+CAT-0302,Outdoor Collection Item 089,Outdoor Gear,30.62,3.9,Established,Low stock,2025-04
+CAT-0339,Kitchen Collection Item 090,Kitchen Tools,28.77,3.6,Emerging,Available,2025-11
+CAT-0376,Personal Collection Item 091,Personal Care,20.44,4.6,Established,Available,2025-04
+CAT-0413,Desk Collection Item 092,Desk Essentials,24.04,2.8,Established,Available,2025-04
+CAT-0450,Home Collection Item 093,Home Audio,37.24,2.8,Established,Low stock,2025-09
+CAT-0487,Outdoor Collection Item 094,Outdoor Gear,10.18,3.4,Established,Available,2025-06
+CAT-0524,Learning Collection Item 095,Learning Kits,9.57,2.0,Established,Available,2025-10
+CAT-0561,Kitchen Collection Item 096,Kitchen Tools,59.02,5.0,Established,Available,2025-11
+CAT-0598,Personal Collection Item 097,Personal Care,40.91,3.4,New,Available,2025-02
+CAT-0635,Desk Collection Item 098,Desk Essentials,17.79,3.8,New,Available,2025-10
+CAT-0672,Outdoor Collection Item 099,Outdoor Gear,19.95,4.0,Emerging,Available,2025-07
+CAT-0709,Learning Collection Item 100,Learning Kits,51.97,3.4,Established,Low stock,2025-07
+CAT-0746,Kitchen Collection Item 101,Kitchen Tools,36.03,4.9,Established,Available,2025-12
+CAT-0783,Personal Collection Item 102,Personal Care,19.25,4.3,Established,Available,2025-12
+CAT-0820,Desk Collection Item 103,Desk Essentials,30.66,4.6,Established,Available,2025-04
+CAT-0857,Home Collection Item 104,Home Audio,7.49,3.0,Established,Available,2025-03
+CAT-0894,Outdoor Collection Item 105,Outdoor Gear,29.12,3.4,Established,Available,2025-04
+CAT-0931,Learning Collection Item 106,Learning Kits,59.05,3.1,Emerging,Available,2025-12
+CAT-0968,Kitchen Collection Item 107,Kitchen Tools,116.94,3.3,Emerging,Available,2025-06
+CAT-0008,Desk Collection Item 108,Desk Essentials,50.5,2.4,Emerging,Available,2025-01
+CAT-0045,Home Collection Item 109,Home Audio,40.73,4.9,Established,Available,2025-04
+CAT-0082,Outdoor Collection Item 110,Outdoor Gear,28.03,2.9,Emerging,Available,2025-11
+CAT-0119,Learning Collection Item 111,Learning Kits,38.5,2.3,Established,Low stock,2025-04
+CAT-0156,Kitchen Collection Item 112,Kitchen Tools,11.77,4.1,Emerging,Available,2025-02
+CAT-0193,Personal Collection Item 113,Personal Care,9.23,3.5,New,Available,2025-10
+CAT-0230,Desk Collection Item 114,Desk Essentials,48.01,3.9,Emerging,Low stock,2025-07
+CAT-0267,Home Collection Item 115,Home Audio,10.04,2.9,New,Available,2025-09
+CAT-0304,Outdoor Collection Item 116,Outdoor Gear,24.02,3.8,Emerging,Available,2025-06
+CAT-0341,Kitchen Collection Item 117,Kitchen Tools,16.39,2.0,Established,Low stock,2025-03
+CAT-0378,Personal Collection Item 118,Personal Care,33.38,3.7,New,Available,2025-09
+CAT-0415,Desk Collection Item 119,Desk Essentials,32.6,2.7,Emerging,Available,2025-01
+CAT-0452,Home Collection Item 120,Home Audio,38.21,3.3,New,Available,2025-09
+CAT-0489,Outdoor Collection Item 121,Outdoor Gear,51.89,2.7,Emerging,Available,2025-08
+CAT-0526,Learning Collection Item 122,Learning Kits,49.0,3.8,Established,Unavailable,2025-08
+CAT-0563,Kitchen Collection Item 123,Kitchen Tools,11.06,3.1,Established,Available,2025-07
+CAT-0600,Personal Collection Item 124,Personal Care,70.05,3.1,Emerging,Low stock,2025-04
+CAT-0637,Desk Collection Item 125,Desk Essentials,60.27,2.5,New,Available,2025-10
+CAT-0674,Outdoor Collection Item 126,Outdoor Gear,28.29,4.5,Established,Low stock,2025-09
+CAT-0711,Learning Collection Item 127,Learning Kits,15.7,3.5,Emerging,Low stock,2025-09
+CAT-0748,Kitchen Collection Item 128,Kitchen Tools,17.61,4.0,Established,Available,2025-08
+CAT-0785,Personal Collection Item 129,Personal Care,22.8,2.9,Established,Available,2025-01
+CAT-0822,Desk Collection Item 130,Desk Essentials,46.92,2.9,Established,Available,2025-03
+CAT-0859,Home Collection Item 131,Home Audio,71.97,3.7,New,Low stock,2025-10
+CAT-0896,Outdoor Collection Item 132,Outdoor Gear,37.39,3.2,Emerging,Low stock,2025-01
+CAT-0933,Learning Collection Item 133,Learning Kits,45.49,2.5,New,Available,2025-08
+CAT-0970,Kitchen Collection Item 134,Kitchen Tools,30.2,3.2,Established,Available,2025-01
+CAT-0010,Desk Collection Item 135,Desk Essentials,67.68,2.0,New,Available,2025-10
+CAT-0047,Home Collection Item 136,Home Audio,28.49,4.3,Emerging,Available,2025-01
+CAT-0084,Outdoor Collection Item 137,Outdoor Gear,64.96,4.6,Emerging,Available,2025-02
+CAT-0121,Learning Collection Item 138,Learning Kits,83.0,2.4,New,Available,2025-10
+CAT-0158,Kitchen Collection Item 139,Kitchen Tools,10.63,4.7,New,Low stock,2025-08
+CAT-0195,Personal Collection Item 140,Personal Care,9.66,2.6,Established,Low stock,2025-08
+CAT-0232,Desk Collection Item 141,Desk Essentials,15.91,4.0,New,Available,2025-03
+CAT-0269,Home Collection Item 142,Home Audio,25.83,3.6,New,Unavailable,2025-02
+CAT-0306,Outdoor Collection Item 143,Outdoor Gear,30.11,3.9,Emerging,Low stock,2025-02
+CAT-0343,Kitchen Collection Item 144,Kitchen Tools,57.2,3.6,Emerging,Available,2025-10
+CAT-0380,Personal Collection Item 145,Personal Care,11.22,4.0,Established,Available,2025-09
+CAT-0417,Desk Collection Item 146,Desk Essentials,25.24,3.3,Established,Available,2025-06
+CAT-0454,Home Collection Item 147,Home Audio,19.78,5.0,Emerging,Available,2025-05
+CAT-0491,Outdoor Collection Item 148,Outdoor Gear,14.3,3.6,Established,Available,2025-11
+CAT-0528,Learning Collection Item 149,Learning Kits,40.77,3.6,Established,Available,2025-08
+CAT-0565,Kitchen Collection Item 150,Kitchen Tools,39.35,4.0,Established,Available,2025-10
+CAT-0602,Personal Collection Item 151,Personal Care,28.28,2.6,Established,Available,2025-03
+CAT-0639,Desk Collection Item 152,Desk Essentials,29.3,4.2,New,Available,2025-08
+CAT-0676,Outdoor Collection Item 153,Outdoor Gear,94.41,1.7,Established,Available,2025-12
+CAT-0713,Learning Collection Item 154,Learning Kits,28.28,4.0,Established,Unavailable,2025-02
+CAT-0750,Kitchen Collection Item 155,Kitchen Tools,21.87,4.1,Established,Low stock,2025-07
+CAT-0787,Personal Collection Item 156,Personal Care,49.77,3.3,Established,Low stock,2025-06
+CAT-0824,Desk Collection Item 157,Desk Essentials,10.36,3.2,Emerging,Available,2025-09
+CAT-0861,Home Collection Item 158,Home Audio,26.7,3.1,Emerging,Available,2025-09
+CAT-0898,Outdoor Collection Item 159,Outdoor Gear,22.09,4.0,Emerging,Low stock,2025-01
+CAT-0935,Learning Collection Item 160,Learning Kits,19.33,4.1,Emerging,Available,2025-08
+CAT-0972,Kitchen Collection Item 161,Kitchen Tools,36.64,4.6,Established,Available,2025-01
+CAT-0012,Desk Collection Item 162,Desk Essentials,13.34,4.6,New,Available,2025-08
+CAT-0049,Home Collection Item 163,Home Audio,16.52,4.6,Established,Available,2025-06
+CAT-0086,Outdoor Collection Item 164,Outdoor Gear,52.32,3.2,Established,Available,2025-06
+CAT-0123,Learning Collection Item 165,Learning Kits,94.6,4.6,Emerging,Available,2025-01
+CAT-0160,Kitchen Collection Item 166,Kitchen Tools,17.92,3.1,Established,Available,2025-04
+CAT-0197,Personal Collection Item 167,Personal Care,62.78,2.9,Established,Available,2025-09
+CAT-0234,Desk Collection Item 168,Desk Essentials,28.69,4.2,Established,Available,2025-09
+CAT-0271,Home Collection Item 169,Home Audio,14.42,4.6,Established,Available,2025-02
+CAT-0308,Outdoor Collection Item 170,Outdoor Gear,33.08,3.5,Established,Available,2025-01
+CAT-0345,Kitchen Collection Item 171,Kitchen Tools,29.51,4.2,Emerging,Available,2025-05
+CAT-0382,Personal Collection Item 172,Personal Care,24.45,2.7,Established,Available,2025-01
+CAT-0419,Desk Collection Item 173,Desk Essentials,29.36,3.3,Established,Available,2025-05
+CAT-0456,Home Collection Item 174,Home Audio,25.93,5.0,Emerging,Available,2025-12
+CAT-0493,Outdoor Collection Item 175,Outdoor Gear,17.33,4.0,Established,Available,2025-06
+CAT-0530,Learning Collection Item 176,Learning Kits,87.04,2.6,Established,Available,2025-05
+CAT-0567,Kitchen Collection Item 177,Kitchen Tools,28.74,2.8,Established,Available,2025-12
+CAT-0604,Personal Collection Item 178,Personal Care,22.27,3.9,Established,Available,2025-03
+CAT-0641,Desk Collection Item 179,Desk Essentials,35.72,4.2,New,Available,2025-05
+CAT-0678,Outdoor Collection Item 180,Outdoor Gear,40.07,3.9,Established,Low stock,2025-03
+CAT-0715,Learning Collection Item 181,Learning Kits,34.37,3.4,Emerging,Available,2025-05
+CAT-0752,Kitchen Collection Item 182,Kitchen Tools,25.94,3.4,Emerging,Low stock,2025-01
+CAT-0789,Personal Collection Item 183,Personal Care,20.76,4.5,Emerging,Available,2025-02
+CAT-0826,Desk Collection Item 184,Desk Essentials,32.11,4.5,Established,Available,2025-10
+CAT-0863,Home Collection Item 185,Home Audio,33.68,4.0,Emerging,Available,2025-10
+CAT-0900,Outdoor Collection Item 186,Outdoor Gear,33.99,4.9,Established,Available,2025-09
+CAT-0937,Learning Collection Item 187,Learning Kits,36.43,3.6,Established,Available,2025-11
+CAT-0974,Kitchen Collection Item 188,Kitchen Tools,37.52,4.6,Established,Unavailable,2025-05
+CAT-0014,Desk Collection Item 189,Desk Essentials,35.5,4.1,Established,Available,2025-03
+CAT-0051,Home Collection Item 190,Home Audio,47.75,2.6,Emerging,Available,2025-05
+CAT-0088,Outdoor Collection Item 191,Outdoor Gear,142.18,3.6,Established,Available,2025-01
+CAT-0125,Learning Collection Item 192,Learning Kits,19.29,3.7,New,Available,2025-04
+CAT-0162,Kitchen Collection Item 193,Kitchen Tools,42.28,3.8,Established,Available,2025-08
+CAT-0199,Personal Collection Item 194,Personal Care,56.64,3.5,Established,Available,2025-02
+CAT-0236,Desk Collection Item 195,Desk Essentials,38.75,3.2,Established,Available,2025-03
+CAT-0273,Home Collection Item 196,Home Audio,43.97,3.0,Emerging,Low stock,2025-03
+CAT-0310,Outdoor Collection Item 197,Outdoor Gear,44.3,3.7,Established,Available,2025-10
+CAT-0347,Kitchen Collection Item 198,Kitchen Tools,37.52,4.0,Established,Unavailable,2025-07
+CAT-0384,Personal Collection Item 199,Personal Care,21.59,4.3,Established,Available,2025-09
+CAT-0421,Desk Collection Item 200,Desk Essentials,43.41,2.5,Established,Unavailable,2025-04
+CAT-0458,Home Collection Item 201,Home Audio,58.36,3.5,Emerging,Available,2025-01
+CAT-0495,Outdoor Collection Item 202,Outdoor Gear,25.04,4.0,Established,Low stock,2025-09
+CAT-0532,Learning Collection Item 203,Learning Kits,15.3,4.5,Established,Available,2025-11
+CAT-0569,Kitchen Collection Item 204,Kitchen Tools,44.96,3.7,Emerging,Available,2025-01
+CAT-0606,Personal Collection Item 205,Personal Care,28.0,2.4,Established,Available,2025-01
+CAT-0643,Desk Collection Item 206,Desk Essentials,13.47,4.9,Emerging,Low stock,2025-09
+CAT-0680,Outdoor Collection Item 207,Outdoor Gear,24.35,4.0,Established,Available,2025-08
+CAT-0717,Learning Collection Item 208,Learning Kits,22.11,3.8,New,Available,2025-12
+CAT-0754,Kitchen Collection Item 209,Kitchen Tools,24.89,3.7,Established,Unavailable,2025-01
+CAT-0791,Personal Collection Item 210,Personal Care,18.18,5.0,Established,Unavailable,2025-06
+CAT-0828,Desk Collection Item 211,Desk Essentials,28.05,3.9,Emerging,Available,2025-09
+CAT-0865,Home Collection Item 212,Home Audio,57.65,3.0,Emerging,Available,2025-01
+CAT-0902,Outdoor Collection Item 213,Outdoor Gear,67.99,2.4,Established,Available,2025-12
+CAT-0939,Learning Collection Item 214,Learning Kits,17.25,3.9,Emerging,Low stock,2025-11
+CAT-0976,Kitchen Collection Item 215,Kitchen Tools,45.41,3.6,Established,Available,2025-08
+CAT-0016,Desk Collection Item 216,Desk Essentials,30.02,4.3,Established,Available,2025-07
+CAT-0053,Home Collection Item 217,Home Audio,11.57,5.0,Established,Available,2025-03
+CAT-0090,Outdoor Collection Item 218,Outdoor Gear,8.81,3.5,Emerging,Available,2025-12
+CAT-0127,Learning Collection Item 219,Learning Kits,28.28,5.0,Established,Available,2025-05
+CAT-0164,Kitchen Collection Item 220,Kitchen Tools,40.61,4.1,Emerging,Available,2025-07
+CAT-0201,Personal Collection Item 221,Personal Care,52.32,3.2,Emerging,Available,2025-09
+CAT-0238,Desk Collection Item 222,Desk Essentials,13.63,4.3,Established,Available,2025-11
+CAT-0275,Home Collection Item 223,Home Audio,37.51,3.6,Established,Available,2025-02
+CAT-0312,Outdoor Collection Item 224,Outdoor Gear,31.55,4.6,Established,Unavailable,2025-10
+CAT-0349,Kitchen Collection Item 225,Kitchen Tools,49.24,3.2,Emerging,Low stock,2025-07
+CAT-0386,Personal Collection Item 226,Personal Care,32.65,3.9,Established,Available,2025-12
+CAT-0423,Desk Collection Item 227,Desk Essentials,61.23,4.0,Emerging,Low stock,2025-04
+CAT-0460,Home Collection Item 228,Home Audio,59.73,2.5,Established,Unavailable,2025-02
+CAT-0497,Outdoor Collection Item 229,Outdoor Gear,14.1,3.6,Established,Available,2025-08
+CAT-0534,Learning Collection Item 230,Learning Kits,11.24,1.9,New,Available,2025-03
+CAT-0571,Kitchen Collection Item 231,Kitchen Tools,27.9,3.8,Emerging,Low stock,2025-03
+CAT-0608,Personal Collection Item 232,Personal Care,39.76,4.5,Established,Available,2025-02
+CAT-0645,Desk Collection Item 233,Desk Essentials,22.81,3.6,Emerging,Low stock,2025-07
+CAT-0682,Outdoor Collection Item 234,Outdoor Gear,18.78,4.0,Established,Available,2025-12
+CAT-0719,Learning Collection Item 235,Learning Kits,18.45,3.8,Established,Available,2025-08
+CAT-0756,Kitchen Collection Item 236,Kitchen Tools,29.81,4.0,Established,Available,2025-04
+CAT-0793,Personal Collection Item 237,Personal Care,13.33,2.7,Emerging,Low stock,2025-04
+CAT-0830,Desk Collection Item 238,Desk Essentials,79.39,3.9,Emerging,Low stock,2025-09
+CAT-0867,Home Collection Item 239,Home Audio,17.76,4.5,Established,Available,2025-10
+CAT-0904,Outdoor Collection Item 240,Outdoor Gear,74.38,3.3,Established,Available,2025-10
+CAT-0941,Learning Collection Item 241,Learning Kits,49.79,5.0,Established,Available,2025-08
+CAT-0978,Kitchen Collection Item 242,Kitchen Tools,19.15,4.2,Established,Available,2025-04
+CAT-0018,Desk Collection Item 243,Desk Essentials,28.37,3.1,New,Available,2025-07
+CAT-0055,Home Collection Item 244,Home Audio,10.59,3.9,New,Unavailable,2025-03
+CAT-0092,Outdoor Collection Item 245,Outdoor Gear,60.46,3.5,New,Available,2025-10
+CAT-0129,Learning Collection Item 246,Learning Kits,37.11,3.2,Emerging,Available,2025-06
+CAT-0166,Kitchen Collection Item 247,Kitchen Tools,59.42,4.4,New,Available,2025-12
+CAT-0203,Personal Collection Item 248,Personal Care,18.36,4.2,Emerging,Unavailable,2025-11
+CAT-0240,Desk Collection Item 249,Desk Essentials,11.31,5.0,Emerging,Unavailable,2025-10
+CAT-0277,Home Collection Item 250,Home Audio,20.39,3.5,Established,Available,2025-06
+CAT-0314,Outdoor Collection Item 251,Outdoor Gear,35.38,3.9,New,Available,2025-10
+CAT-0351,Kitchen Collection Item 252,Kitchen Tools,27.86,3.7,Emerging,Available,2025-08
+CAT-0388,Personal Collection Item 253,Personal Care,44.84,3.6,Established,Available,2025-10
+CAT-0425,Desk Collection Item 254,Desk Essentials,48.53,5.0,Emerging,Available,2025-11
+CAT-0462,Home Collection Item 255,Home Audio,38.56,3.4,New,Available,2025-05
+CAT-0499,Outdoor Collection Item 256,Outdoor Gear,20.51,3.3,Established,Available,2025-06
+CAT-0536,Learning Collection Item 257,Learning Kits,26.07,3.6,Established,Available,2025-03
+CAT-0573,Kitchen Collection Item 258,Kitchen Tools,30.56,4.2,Established,Available,2025-06
+CAT-0610,Personal Collection Item 259,Personal Care,51.29,3.8,Emerging,Unavailable,2025-11
+CAT-0647,Desk Collection Item 260,Desk Essentials,15.21,4.4,New,Low stock,2025-08
+CAT-0684,Outdoor Collection Item 261,Outdoor Gear,58.8,3.8,Established,Available,2025-09
+CAT-0721,Learning Collection Item 262,Learning Kits,24.89,3.4,Established,Available,2025-03
+CAT-0758,Kitchen Collection Item 263,Kitchen Tools,51.45,3.9,Established,Available,2025-11
+CAT-0795,Personal Collection Item 264,Personal Care,88.61,3.2,Emerging,Available,2025-06
+CAT-0832,Desk Collection Item 265,Desk Essentials,44.83,3.8,New,Low stock,2025-06
+CAT-0869,Home Collection Item 266,Home Audio,24.19,4.7,Established,Available,2025-09
+CAT-0906,Outdoor Collection Item 267,Outdoor Gear,29.24,2.6,New,Available,2025-02
+CAT-0943,Learning Collection Item 268,Learning Kits,54.5,3.3,Emerging,Available,2025-06
+CAT-0980,Kitchen Collection Item 269,Kitchen Tools,16.41,4.5,Established,Available,2025-05
+CAT-0020,Desk Collection Item 270,Desk Essentials,50.38,3.7,Emerging,Unavailable,2025-11
+CAT-0057,Home Collection Item 271,Home Audio,10.04,3.9,Established,Available,2025-04
+CAT-0094,Outdoor Collection Item 272,Outdoor Gear,16.06,3.8,New,Available,2025-06
+CAT-0131,Learning Collection Item 273,Learning Kits,20.34,4.2,Established,Available,2025-12
+CAT-0168,Kitchen Collection Item 274,Kitchen Tools,22.5,4.4,Established,Low stock,2025-01
+CAT-0205,Personal Collection Item 275,Personal Care,20.78,3.9,Established,Available,2025-03
+CAT-0242,Desk Collection Item 276,Desk Essentials,29.3,3.2,New,Available,2025-07
+CAT-0279,Home Collection Item 277,Home Audio,22.87,3.8,Established,Available,2025-07
+CAT-0316,Outdoor Collection Item 278,Outdoor Gear,27.55,2.9,Established,Available,2025-02
+CAT-0353,Kitchen Collection Item 279,Kitchen Tools,38.69,4.0,Established,Available,2025-08
+CAT-0390,Personal Collection Item 280,Personal Care,32.72,5.0,Emerging,Available,2025-11
+CAT-0427,Desk Collection Item 281,Desk Essentials,38.12,3.8,Established,Available,2025-11
+CAT-0464,Home Collection Item 282,Home Audio,26.3,4.9,Established,Low stock,2025-01
+CAT-0501,Outdoor Collection Item 283,Outdoor Gear,19.26,3.6,Established,Available,2025-11
+CAT-0538,Learning Collection Item 284,Learning Kits,28.11,4.1,Emerging,Available,2025-11
+CAT-0575,Kitchen Collection Item 285,Kitchen Tools,25.36,1.6,Established,Low stock,2025-08
+CAT-0612,Personal Collection Item 286,Personal Care,33.97,2.7,Established,Low stock,2025-12
+CAT-0649,Desk Collection Item 287,Desk Essentials,47.76,3.2,Established,Available,2025-01
+CAT-0686,Outdoor Collection Item 288,Outdoor Gear,35.52,3.7,Established,Available,2025-01
+CAT-0723,Learning Collection Item 289,Learning Kits,15.86,3.8,Emerging,Available,2025-06
+CAT-0760,Kitchen Collection Item 290,Kitchen Tools,27.52,3.0,Established,Low stock,2025-11
+CAT-0797,Personal Collection Item 291,Personal Care,99.46,4.2,Established,Available,2025-06
+CAT-0834,Desk Collection Item 292,Desk Essentials,46.69,4.4,Established,Low stock,2025-05
+CAT-0871,Home Collection Item 293,Home Audio,36.73,3.9,Emerging,Low stock,2025-04
+CAT-0908,Outdoor Collection Item 294,Outdoor Gear,10.1,2.3,Emerging,Available,2025-04
+CAT-0945,Learning Collection Item 295,Learning Kits,19.67,4.4,Established,Low stock,2025-11
+CAT-0982,Kitchen Collection Item 296,Kitchen Tools,21.43,3.7,New,Low stock,2025-07
+CAT-0022,Desk Collection Item 297,Desk Essentials,15.92,3.6,New,Available,2025-02
+CAT-0059,Home Collection Item 298,Home Audio,23.07,4.5,Established,Available,2025-01
+CAT-0096,Outdoor Collection Item 299,Outdoor Gear,38.29,4.1,Established,Available,2025-08
+CAT-0133,Learning Collection Item 300,Learning Kits,32.9,3.9,Emerging,Available,2025-08
+CAT-0170,Kitchen Collection Item 301,Kitchen Tools,27.29,3.1,Established,Available,2025-05
+CAT-0207,Personal Collection Item 302,Personal Care,20.1,2.7,New,Available,2025-04
+CAT-0244,Desk Collection Item 303,Desk Essentials,33.07,4.8,New,Available,2025-12
+CAT-0281,Home Collection Item 304,Home Audio,15.57,4.8,Established,Unavailable,2025-10
+CAT-0318,Outdoor Collection Item 305,Outdoor Gear,11.57,4.5,Established,Available,2025-09
+CAT-0355,Kitchen Collection Item 306,Kitchen Tools,24.71,3.6,Established,Available,2025-11
+CAT-0392,Personal Collection Item 307,Personal Care,25.8,3.3,Emerging,Available,2025-03
+CAT-0429,Desk Collection Item 308,Desk Essentials,25.7,3.7,Emerging,Unavailable,2025-10
+CAT-0466,Home Collection Item 309,Home Audio,38.62,4.2,Established,Available,2025-11
+CAT-0503,Outdoor Collection Item 310,Outdoor Gear,28.95,4.5,Emerging,Available,2025-12
+CAT-0540,Learning Collection Item 311,Learning Kits,28.49,2.9,New,Low stock,2025-12
+CAT-0577,Kitchen Collection Item 312,Kitchen Tools,56.83,4.0,Emerging,Available,2025-04
+CAT-0614,Personal Collection Item 313,Personal Care,19.39,5.0,Established,Available,2025-01
+CAT-0651,Desk Collection Item 314,Desk Essentials,34.17,3.2,New,Low stock,2025-09
+CAT-0688,Outdoor Collection Item 315,Outdoor Gear,65.99,4.0,Established,Available,2025-11
+CAT-0725,Learning Collection Item 316,Learning Kits,46.99,4.5,Established,Available,2025-07
+CAT-0762,Kitchen Collection Item 317,Kitchen Tools,33.9,4.5,New,Available,2025-05
+CAT-0799,Personal Collection Item 318,Personal Care,34.16,3.9,Established,Available,2025-05
+CAT-0836,Desk Collection Item 319,Desk Essentials,10.38,4.3,Emerging,Available,2025-09
+CAT-0873,Home Collection Item 320,Home Audio,24.0,3.4,Emerging,Unavailable,2025-01
+CAT-0910,Outdoor Collection Item 321,Outdoor Gear,60.04,4.0,Emerging,Available,2025-08
+CAT-0947,Learning Collection Item 322,Learning Kits,21.14,4.8,Emerging,Available,2025-02
+CAT-0984,Kitchen Collection Item 323,Kitchen Tools,28.22,4.0,Emerging,Available,2025-10
+CAT-0024,Desk Collection Item 324,Desk Essentials,39.38,3.9,Established,Low stock,2025-01
+CAT-0061,Home Collection Item 325,Home Audio,41.42,3.5,Emerging,Available,2025-02
+CAT-0098,Outdoor Collection Item 326,Outdoor Gear,29.88,3.6,Emerging,Low stock,2025-04
+CAT-0135,Learning Collection Item 327,Learning Kits,24.47,2.6,Established,Available,2025-02
+CAT-0172,Kitchen Collection Item 328,Kitchen Tools,36.79,4.1,Established,Available,2025-10
+CAT-0209,Personal Collection Item 329,Personal Care,25.67,4.4,Established,Low stock,2025-08
+CAT-0246,Desk Collection Item 330,Desk Essentials,38.59,5.0,Emerging,Available,2025-01
+CAT-0283,Home Collection Item 331,Home Audio,36.96,3.2,Established,Available,2025-05
+CAT-0320,Outdoor Collection Item 332,Outdoor Gear,16.0,3.0,Emerging,Low stock,2025-08
+CAT-0357,Kitchen Collection Item 333,Kitchen Tools,28.8,4.6,New,Low stock,2025-04
+CAT-0394,Personal Collection Item 334,Personal Care,17.44,4.3,Emerging,Available,2025-08
+CAT-0431,Desk Collection Item 335,Desk Essentials,22.79,3.3,Emerging,Available,2025-01
+CAT-0468,Home Collection Item 336,Home Audio,15.39,4.5,Emerging,Available,2025-08
+CAT-0505,Outdoor Collection Item 337,Outdoor Gear,109.3,3.6,Established,Available,2025-05
+CAT-0542,Learning Collection Item 338,Learning Kits,51.33,4.0,Emerging,Low stock,2025-12
+CAT-0579,Kitchen Collection Item 339,Kitchen Tools,35.24,3.1,Established,Unavailable,2025-10
+CAT-0616,Personal Collection Item 340,Personal Care,51.25,3.0,New,Available,2025-08
+CAT-0653,Desk Collection Item 341,Desk Essentials,44.57,3.9,Established,Available,2025-11
+CAT-0690,Outdoor Collection Item 342,Outdoor Gear,16.0,4.1,Established,Available,2025-09
+CAT-0727,Learning Collection Item 343,Learning Kits,32.95,2.6,Established,Available,2025-08
+CAT-0764,Kitchen Collection Item 344,Kitchen Tools,18.55,4.2,Established,Available,2025-07
+CAT-0801,Personal Collection Item 345,Personal Care,45.46,3.1,Emerging,Available,2025-03
+CAT-0838,Desk Collection Item 346,Desk Essentials,50.09,5.0,Emerging,Low stock,2025-02
+CAT-0875,Home Collection Item 347,Home Audio,36.76,3.5,New,Unavailable,2025-07
+CAT-0912,Outdoor Collection Item 348,Outdoor Gear,21.29,2.9,Established,Available,2025-08
+CAT-0949,Learning Collection Item 349,Learning Kits,68.98,3.3,Established,Available,2025-07
+CAT-0986,Kitchen Collection Item 350,Kitchen Tools,26.84,3.3,Established,Available,2025-09
+CAT-0026,Desk Collection Item 351,Desk Essentials,21.2,3.6,Established,Low stock,2025-06
+CAT-0063,Home Collection Item 352,Home Audio,29.4,2.6,Emerging,Low stock,2025-05
+CAT-0100,Outdoor Collection Item 353,Outdoor Gear,50.59,3.4,New,Available,2025-10
+CAT-0137,Learning Collection Item 354,Learning Kits,41.49,4.0,Emerging,Available,2025-03
+CAT-0174,Kitchen Collection Item 355,Kitchen Tools,42.5,3.6,Emerging,Available,2025-09
+CAT-0211,Personal Collection Item 356,Personal Care,23.89,3.9,Emerging,Available,2025-12
+CAT-0248,Desk Collection Item 357,Desk Essentials,21.16,3.6,New,Available,2025-08
+CAT-0285,Home Collection Item 358,Home Audio,20.64,2.6,Emerging,Available,2025-10
+CAT-0322,Outdoor Collection Item 359,Outdoor Gear,27.42,4.4,Emerging,Available,2025-07
+CAT-0359,Kitchen Collection Item 360,Kitchen Tools,51.52,4.3,Established,Available,2025-07
+CAT-0396,Personal Collection Item 361,Personal Care,48.29,4.5,Established,Unavailable,2025-11
+CAT-0433,Desk Collection Item 362,Desk Essentials,30.47,4.5,Emerging,Available,2025-08
+CAT-0470,Home Collection Item 363,Home Audio,23.9,3.3,Established,Available,2025-01
+CAT-0507,Outdoor Collection Item 364,Outdoor Gear,15.66,3.4,Emerging,Available,2025-07
+CAT-0544,Learning Collection Item 365,Learning Kits,31.8,2.4,New,Available,2025-11
+CAT-0581,Kitchen Collection Item 366,Kitchen Tools,41.53,3.4,Established,Unavailable,2025-09
+CAT-0618,Personal Collection Item 367,Personal Care,53.08,3.3,Emerging,Available,2025-04
+CAT-0655,Desk Collection Item 368,Desk Essentials,19.63,3.0,Emerging,Low stock,2025-09
+CAT-0692,Outdoor Collection Item 369,Outdoor Gear,26.73,5.0,Emerging,Unavailable,2025-10
+CAT-0729,Learning Collection Item 370,Learning Kits,72.39,3.6,New,Available,2025-08
+CAT-0766,Kitchen Collection Item 371,Kitchen Tools,20.6,4.0,New,Unavailable,2025-12
+CAT-0803,Personal Collection Item 372,Personal Care,30.05,3.5,New,Low stock,2025-06
+CAT-0840,Desk Collection Item 373,Desk Essentials,11.24,4.1,Established,Unavailable,2025-04
+CAT-0877,Home Collection Item 374,Home Audio,24.43,4.0,Emerging,Unavailable,2025-08
+CAT-0914,Outdoor Collection Item 375,Outdoor Gear,19.63,3.5,Emerging,Available,2025-07
+CAT-0951,Learning Collection Item 376,Learning Kits,26.92,4.2,Emerging,Available,2025-09
+CAT-0988,Kitchen Collection Item 377,Kitchen Tools,31.49,4.9,Emerging,Available,2025-04
+CAT-0028,Desk Collection Item 378,Desk Essentials,14.91,3.6,Emerging,Low stock,2025-11
+CAT-0065,Home Collection Item 379,Home Audio,86.7,3.6,Emerging,Low stock,2025-06
+CAT-0102,Outdoor Collection Item 380,Outdoor Gear,18.63,4.0,Established,Available,2025-09
+CAT-0139,Learning Collection Item 381,Learning Kits,71.33,3.2,Emerging,Available,2025-03
+CAT-0176,Kitchen Collection Item 382,Kitchen Tools,35.65,4.2,New,Available,2025-10
+CAT-0213,Personal Collection Item 383,Personal Care,8.26,4.1,New,Low stock,2025-04
+CAT-0250,Desk Collection Item 384,Desk Essentials,84.98,2.8,Established,Available,2025-02
+CAT-0287,Home Collection Item 385,Home Audio,21.0,4.5,Emerging,Low stock,2025-09
+CAT-0324,Outdoor Collection Item 386,Outdoor Gear,10.31,5.0,Established,Unavailable,2025-05
+CAT-0361,Kitchen Collection Item 387,Kitchen Tools,20.83,3.2,Emerging,Available,2025-06
+CAT-0398,Personal Collection Item 388,Personal Care,44.95,4.7,Emerging,Low stock,2025-06
+CAT-0435,Desk Collection Item 389,Desk Essentials,16.42,3.4,Established,Available,2025-05
+CAT-0472,Home Collection Item 390,Home Audio,56.7,3.1,Emerging,Unavailable,2025-07
+CAT-0509,Outdoor Collection Item 391,Outdoor Gear,40.96,3.1,Established,Available,2025-09
+CAT-0546,Learning Collection Item 392,Learning Kits,21.4,3.6,New,Unavailable,2025-04
+CAT-0583,Kitchen Collection Item 393,Kitchen Tools,14.26,3.1,Emerging,Available,2025-02
+CAT-0620,Personal Collection Item 394,Personal Care,26.52,3.4,Established,Unavailable,2025-04
+CAT-0657,Desk Collection Item 395,Desk Essentials,55.94,2.2,Established,Available,2025-12
+CAT-0694,Outdoor Collection Item 396,Outdoor Gear,20.19,4.4,Established,Available,2025-12
+CAT-0731,Learning Collection Item 397,Learning Kits,23.13,5.0,Emerging,Low stock,2025-06
+CAT-0768,Kitchen Collection Item 398,Kitchen Tools,25.69,4.0,Emerging,Available,2025-01
+CAT-0805,Personal Collection Item 399,Personal Care,32.29,4.3,Emerging,Low stock,2025-07
+CAT-0842,Desk Collection Item 400,Desk Essentials,50.61,4.8,Established,Low stock,2025-07
+CAT-0879,Home Collection Item 401,Home Audio,35.24,3.7,Emerging,Available,2025-02
+CAT-0916,Outdoor Collection Item 402,Outdoor Gear,27.29,3.0,New,Low stock,2025-09
+CAT-0953,Learning Collection Item 403,Learning Kits,21.32,3.6,Emerging,Unavailable,2025-08
+CAT-0990,Kitchen Collection Item 404,Kitchen Tools,37.92,3.3,New,Unavailable,2025-05
+CAT-0030,Desk Collection Item 405,Desk Essentials,69.49,3.3,Established,Available,2025-04
+CAT-0067,Home Collection Item 406,Home Audio,22.65,5.0,New,Available,2025-03
+CAT-0104,Outdoor Collection Item 407,Outdoor Gear,13.47,3.2,Emerging,Unavailable,2025-03
+CAT-0141,Learning Collection Item 408,Learning Kits,68.46,4.3,New,Available,2025-10
+CAT-0178,Kitchen Collection Item 409,Kitchen Tools,30.07,2.3,New,Low stock,2025-03
+CAT-0215,Personal Collection Item 410,Personal Care,20.6,3.3,Established,Available,2025-02
+CAT-0252,Desk Collection Item 411,Desk Essentials,40.64,4.4,Emerging,Available,2025-02
+CAT-0289,Home Collection Item 412,Home Audio,15.63,3.5,Established,Low stock,2025-03
+CAT-0326,Outdoor Collection Item 413,Outdoor Gear,67.19,3.2,Established,Unavailable,2025-12
+CAT-0363,Kitchen Collection Item 414,Kitchen Tools,35.89,3.9,Emerging,Available,2025-02
+CAT-0400,Personal Collection Item 415,Personal Care,28.37,3.6,Established,Low stock,2025-01
+CAT-0437,Desk Collection Item 416,Desk Essentials,24.52,4.3,Emerging,Available,2025-04
+CAT-0474,Home Collection Item 417,Home Audio,20.95,5.0,New,Available,2025-07
+CAT-0511,Outdoor Collection Item 418,Outdoor Gear,8.15,4.5,Established,Available,2025-06
+CAT-0548,Learning Collection Item 419,Learning Kits,33.28,3.4,Established,Low stock,2025-02
+CAT-0585,Kitchen Collection Item 420,Kitchen Tools,21.5,3.5,Established,Available,2025-05

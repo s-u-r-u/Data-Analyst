@@ -1,0 +1,2 @@
+# Tableau dashboard specification
+Connect to `data/catalogue_sample.csv` for a reproducible dashboard. KPI cards: distinct items, median listed price, average rating and available-stock share. Add a category price-spread box plot, price-rating scatter plot, price-band profile and stock mix by category. Add filters for category, stock status, review band and snapshot month. Save `catalogue_intelligence.twbx` and add screenshots after building it. Keep any practice-site extract provenance separate from synthetic sample data.
