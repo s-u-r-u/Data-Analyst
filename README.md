@@ -1,4 +1,4 @@
-# Suraj Suru | Original Data Analytics Portfolio
+# Suraj Suru | Data Analytics Portfolio
 
 Three bespoke case studies with distinct scenarios, custom data structures and analytical questions.
 
